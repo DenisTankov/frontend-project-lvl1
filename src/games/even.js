@@ -20,7 +20,7 @@ const evenCheck = () => {
   console.log('Answer "yes" if the number is even, otherwise answer "no".');
 
   while (result < 3) {
-    const randomNumber = getRandomInt(1, 100);
+    const randomNumber = getRandomInt(1, 10);
     console.log(`${'Question: '} ${randomNumber}`);
     const userAnswer = readlineSync.question('Your answer: ');
     if (randomNumber % 2 === 0 & userAnswer === 'yes') {
