@@ -8,6 +8,8 @@
 
 Run game: brain-even
 
+---
+
 
 [Game №2: Brain-calc] - You have to calculate the mathematical expression. You have three attempts.
 
