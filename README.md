@@ -5,18 +5,27 @@
             
 
 [Game №1: Brain-even] - You have to answer whether the number is even. You have three attempts.
+
 Run game: brain-even
 
+
 [Game №2: Brain-calc] - You have to calculate the mathematical expression. You have three attempts.
+
 Run game: brain-calc
 
+
 [Game №3: Brain-gcd] - You have to calculate the greatest common divisor of two numbers. You have three attempts.
+
 Run game: brain-gcd
 
+
 [Game №4: Brain-progression] - You have to find the missing link in the arithmetic progression. You have three attempts.
+
 Run game: brain-progression
 
+
 [Game №5: Brain-prime] - You have to answer if the number is prime. You have three attempts.
+
 Run game: brain-prime
 
 
