@@ -5,6 +5,8 @@
 
 Installation and setup:
 
+
+```sh
 git clone git@github.com:DenisTankov/frontend-project-lvl1.git
 
 cd frontend-project-lvl1
@@ -14,6 +16,7 @@ npm ci
 sudo npm i -g hexlet-code-1.0.0.tgz
 
 npm link
+```
 
 ___
 
