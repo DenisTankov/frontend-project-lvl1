@@ -12,7 +12,7 @@ git clone git@github.com:DenisTankov/frontend-project-lvl1.git
 
 cd frontend-project-lvl1
 
-npm ci
+make install
 
 sudo npm i -g hexlet-code-1.0.0.tgz
 
